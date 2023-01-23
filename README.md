@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="center" alt="CodingGIF" width=500 src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="centre" alt="CodingGIF" width=500 src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 
 <h1 align="center">Hi 👋, I'm Aariz Zafar</h1>
