@@ -1,5 +1,7 @@
 ### Hi there 👋
-    <img align="right" alt="CodingGIF" width=500 src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+
+
+<img align="right" alt="CodingGIF" width=500 src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 
 <!--
