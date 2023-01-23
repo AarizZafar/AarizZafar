@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+    <img align="right" alt="CodingGIF" width=500 src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+
 
 <!--
 **AarizZafar/AarizZafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
